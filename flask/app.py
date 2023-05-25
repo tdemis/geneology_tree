@@ -5,7 +5,7 @@ Created on Wed Apr 29 22:52:50 2020
 @author: Yury
 """
 import sys
-main_f='C:\\a_tree\\app\\'
+main_f='D:\\OneDriveNew\\OneDrive\\Έγγραφα\\ΕΑΠ\\Team Project\\geneology_tree\\'
 sys.path.append(f'{main_f}')
 import backend
 

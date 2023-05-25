@@ -16,7 +16,7 @@ os.environ["PATH"] += os.pathsep + 'C:\\ProgramData\\Anaconda3\\Library\\bin\\gr
 
 
 import sys
-main_f='C:\\a_tree\\app\\'
+main_f='D:\\OneDriveNew\\OneDrive\\Έγγραφα\\ΕΑΠ\\Team Project\\geneology_tree\\'
 sys.path.append(f'{main_f}')
 import backend
 import importlib
